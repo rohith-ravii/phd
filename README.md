@@ -1,2 +1,2 @@
 # PhD
-All the code that I have wrote during PhD thesis
+All the code that I have wrote during my PhD thesis
