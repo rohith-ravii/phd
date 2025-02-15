@@ -1,2 +1,2 @@
-# lipid_properties_analysis
-code to calculate lipid properties
+# PhD
+All the code that I have wrote during PhD thesis
